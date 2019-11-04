@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Analysis/Analysis.iml" filepath="$PROJECT_DIR$/Analysis/Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common-Service-Facade/Common-Service-Facade.iml" filepath="$PROJECT_DIR$/Common-Service-Facade/Common-Service-Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Controller/Controller.iml" filepath="$PROJECT_DIR$/Controller/Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Order/Order.iml" filepath="$PROJECT_DIR$/Order/Order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Product/Product.iml" filepath="$PROJECT_DIR$/Product/Product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Redis/Redis.iml" filepath="$PROJECT_DIR$/Redis/Redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User/User.iml" filepath="$PROJECT_DIR$/User/User.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sst.iml" filepath="$PROJECT_DIR$/sst.iml" />
+    </modules>
+  </component>
+</project>
